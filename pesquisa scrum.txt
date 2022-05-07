@@ -19,4 +19,4 @@ Revisar a situação do projeto no final de cada Sprint é um passo muito import
 •	Product Owner
 A tradução para Product Owner é, literalmente, “dono do produto”. em linhas gerais, representa os interesses de stakeholders (no sentido de agregar valor ao negócio), define funcionalidades do produto e faz a gestão do backlog, priorizando tarefas segundo métodos ágeis, como o Scrum.
 odvkodcmdisp
-
+ Scrum Master
