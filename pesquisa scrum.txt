@@ -1,0 +1,21 @@
+Pesquisa
+•	Sprint
+Uma sprint é uma reunião de pessoas envolvidas num projeto para promover um desenvolvimento mais focalizado do projeto. O termo está fortemente relacionado ao framework de desenvolvimento ágil Scrum. Sprints normalmente tem duração de uma a quatro semanas.
+•	Backlog 
+Backlog refere-se a um log de acumulação de trabalho num determinado intervalo de tempo. Backlog é uma espécie de estoque de folhas de requisições/encomendas relativas a produtos ainda não produzidos. Grosso modo, backlog é uma "pilha de pedidos" em espera.
+•	sprint planning
+Sprint Planning é a reunião do Scrum, na qual é feito o planejamento de um Sprint. O propósito da Sprint Planning é alinhar o time de desenvolvimento e o Product Owner.
+•	sprint backlog
+	 Backlog da Sprint é um conjunto de itens do Backlog do Produto selecionados para a Sprint (representado na forma de um Quadro de Tarefas), juntamente com o plano para entregar o incremento "Pronto" e atingir a Meta da Sprint.
+•	Daily Meeting
+é uma reunião diária, de 15 minutos, para discutir o que foi feito, qual o plano para as próximas 24 horas e o que tanto está impedindo o time de avançar. é uma ferramenta dos Métodos Ágeis que consiste em uma reunião técnica, geralmente no início do dia, em pé, em que cada desenvolvedor responde a três perguntas básicas. Foi elaborado como uma ferramenta de incentivo à comunicação e criatividade de equipes de desenvolvimento.
+•	Sprint Review
+Revisão de Sprint (Sprint Review), também conhecida como “Demonstração do Produto”, é um ponto essencial para verificação do produto.
+Revisar a situação do projeto no final de cada Sprint é um passo muito importante para analisar o que já foi feito até aquele momento e como prosseguir adiante.
+ Sprint Retrospective
+É uma cerimônia que deve acontecer sempre no último dia da sprint, para "fechar" a mesma. É uma cerimônia com duração máxima de três horas para cada trinta dias de sprint e é facilitada pelo Scrum Master. Nesta cerimônia que todo o Time Scrum deve participar, o objetivo é analisar tudo o que aconteceu nesta sprint que está encerrando e propor melhorias para a próxima.
+•	scrum máster
+O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum. O Scrum Master protege o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.
+•	Product Owner
+A tradução para Product Owner é, literalmente, “dono do produto”. em linhas gerais, representa os interesses de stakeholders (no sentido de agregar valor ao negócio), define funcionalidades do produto e faz a gestão do backlog, priorizando tarefas segundo métodos ágeis, como o Scrum.
+
